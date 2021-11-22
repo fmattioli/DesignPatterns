@@ -54,9 +54,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Infrastructure.Read.csproj",
-      "projectName": "CQRS.Infrastructure.Read",
-      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Infrastructure.Read.csproj",
+      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
+      "projectName": "CQRS.Read.Infrastructure",
+      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
       "outputPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\obj\\",
       "projectStyle": "PackageReference",

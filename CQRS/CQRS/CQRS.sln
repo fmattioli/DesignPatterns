@@ -5,15 +5,15 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Web", "CQRS.Web\CQRS.Web.csproj", "{4A7B6DBD-C3C4-4A2F-B4F6-7DF554F0834E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Infrastructure.Read", "CQRS.Infrastructure.Read\CQRS.Infrastructure.Read.csproj", "{F96DB326-838B-4970-BC1D-54AC9B8B85C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Read.Infrastructure", "CQRS.Infrastructure.Read\CQRS.Read.Infrastructure.csproj", "{F96DB326-838B-4970-BC1D-54AC9B8B85C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS.Infra.Read", "CQRS.Infra.Read", "{46ABA3E1-B145-429B-8D11-92EB61E59AFA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Application.Read", "CQRS.Application.Read\CQRS.Application.Read.csproj", "{A622014B-57DC-4896-8DDC-5FC824E61297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Read.Application", "CQRS.Application.Read\CQRS.Read.Application.csproj", "{A622014B-57DC-4896-8DDC-5FC824E61297}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS.Infra.Write", "CQRS.Infra.Write", "{DE654FC6-5786-4AE5-B07B-740B152D988D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write", "CQRS_Write\CQRS_Write.csproj", "{8E25322B-54B3-485C-B081-45CD07CD06E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write.Domain", "CQRS_Write\CQRS_Write.Domain.csproj", "{8E25322B-54B3-485C-B081-45CD07CD06E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Write.Infrastructure", "CQRS.Write.Infrastructure\CQRS.Write.Infrastructure.csproj", "{17315BBB-A947-49F0-98A0-026D9C46793E}"
 EndProject

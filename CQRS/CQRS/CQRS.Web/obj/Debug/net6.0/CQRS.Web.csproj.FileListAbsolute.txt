@@ -7,7 +7,6 @@ C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.runtimeco
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.dll
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\ref\CQRS.Web.dll
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.pdb
-C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.csproj.AssemblyReference.cache
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfoInputs.cache
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfo.cs

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fv88a4TzsTDLqiLw0AadPthYl8TZmPKFYIqgO3uzyoshuUP2kyIlf7r2yDK10dJgiBttn3RXafTvavLsRjwcnA==",
+  "dgSpecHash": "O8T6keRU+26nmEdFRSP1l/xiycbx/lLlCVR36PuCQ/L1WiOtQpXBuMpE7qP4vftLYcAYkSqfEWbXRQzC53Z+Kw==",
   "success": true,
-  "projectFilePath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.csproj",
+  "projectFilePath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

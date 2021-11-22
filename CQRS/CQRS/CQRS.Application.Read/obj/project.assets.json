@@ -11,17 +11,17 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "CQRS.Infrastructure.Read/1.0.0": {
+      "CQRS.Read.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
-          "bin/placeholder/CQRS.Infrastructure.Read.dll": {}
+          "bin/placeholder/CQRS.Read.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CQRS.Infrastructure.Read.dll": {}
+          "bin/placeholder/CQRS.Read.Infrastructure.dll": {}
         }
       }
     }
@@ -54,15 +54,15 @@
         "packageIcon.png"
       ]
     },
-    "CQRS.Infrastructure.Read/1.0.0": {
+    "CQRS.Read.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../CQRS.Infrastructure.Read/CQRS.Infrastructure.Read.csproj",
-      "msbuildProject": "../CQRS.Infrastructure.Read/CQRS.Infrastructure.Read.csproj"
+      "path": "../CQRS.Infrastructure.Read/CQRS.Read.Infrastructure.csproj",
+      "msbuildProject": "../CQRS.Infrastructure.Read/CQRS.Read.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CQRS.Infrastructure.Read >= 1.0.0"
+      "CQRS.Read.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -72,9 +72,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Application.Read.csproj",
-      "projectName": "CQRS.Application.Read",
-      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Application.Read.csproj",
+      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
+      "projectName": "CQRS.Read.Application",
+      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
       "outputPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\obj\\",
       "projectStyle": "PackageReference",
@@ -97,8 +97,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Infrastructure.Read.csproj": {
-              "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Infrastructure.Read.csproj"
+            "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj": {
+              "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj"
             }
           }
         }

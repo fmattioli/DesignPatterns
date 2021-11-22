@@ -1,0 +1,11 @@
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\bin\Debug\net6.0\CQRS.Write.Infrastructure.deps.json
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\bin\Debug\net6.0\CQRS.Write.Infrastructure.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\bin\Debug\net6.0\ref\CQRS.Write.Infrastructure.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\bin\Debug\net6.0\CQRS.Write.Infrastructure.pdb
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.AssemblyInfoInputs.cache
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.AssemblyInfo.cs
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.csproj.CoreCompileInputs.cache
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\ref\CQRS.Write.Infrastructure.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Write.Infrastructure\obj\Debug\net6.0\CQRS.Write.Infrastructure.pdb

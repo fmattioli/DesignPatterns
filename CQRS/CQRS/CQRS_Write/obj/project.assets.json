@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.csproj",
-      "projectName": "CQRS_Write",
-      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.csproj",
+      "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.Domain.csproj",
+      "projectName": "CQRS_Write.Domain",
+      "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\CQRS_Write.Domain.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
       "outputPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS_Write\\obj\\",
       "projectStyle": "PackageReference",
