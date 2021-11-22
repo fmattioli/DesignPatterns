@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Web", "CQRS.Web\CQRS.Web.csproj", "{4A7B6DBD-C3C4-4A2F-B4F6-7DF554F0834E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Web", "CQRS.Web\CQRS.Web.csproj", "{4A7B6DBD-C3C4-4A2F-B4F6-7DF554F0834E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Infrastructure.Read", "CQRS.Infrastructure.Read\CQRS.Infrastructure.Read.csproj", "{F96DB326-838B-4970-BC1D-54AC9B8B85C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Infrastructure.Read", "CQRS.Infrastructure.Read\CQRS.Infrastructure.Read.csproj", "{F96DB326-838B-4970-BC1D-54AC9B8B85C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS.Infra.Read", "CQRS.Infra.Read", "{46ABA3E1-B145-429B-8D11-92EB61E59AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Application.Read", "CQRS.Application.Read\CQRS.Application.Read.csproj", "{A622014B-57DC-4896-8DDC-5FC824E61297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CQRS.Application.Read", "CQRS.Application.Read\CQRS.Application.Read.csproj", "{A622014B-57DC-4896-8DDC-5FC824E61297}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CQRS.Infra.Write", "CQRS.Infra.Write", "{DE654FC6-5786-4AE5-B07B-740B152D988D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write", "CQRS_Write\CQRS_Write.csproj", "{8E25322B-54B3-485C-B081-45CD07CD06E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Write.Infrastructure", "CQRS.Write.Infrastructure\CQRS.Write.Infrastructure.csproj", "{17315BBB-A947-49F0-98A0-026D9C46793E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS.Write.Application", "CQRS.Write.Application\CQRS.Write.Application.csproj", "{5F0CC8B2-AA21-47C7-8056-762892C5DB58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +37,18 @@ Global
 		{A622014B-57DC-4896-8DDC-5FC824E61297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A622014B-57DC-4896-8DDC-5FC824E61297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A622014B-57DC-4896-8DDC-5FC824E61297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E25322B-54B3-485C-B081-45CD07CD06E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E25322B-54B3-485C-B081-45CD07CD06E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E25322B-54B3-485C-B081-45CD07CD06E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E25322B-54B3-485C-B081-45CD07CD06E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17315BBB-A947-49F0-98A0-026D9C46793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17315BBB-A947-49F0-98A0-026D9C46793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17315BBB-A947-49F0-98A0-026D9C46793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17315BBB-A947-49F0-98A0-026D9C46793E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0CC8B2-AA21-47C7-8056-762892C5DB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0CC8B2-AA21-47C7-8056-762892C5DB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0CC8B2-AA21-47C7-8056-762892C5DB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0CC8B2-AA21-47C7-8056-762892C5DB58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +56,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F96DB326-838B-4970-BC1D-54AC9B8B85C0} = {46ABA3E1-B145-429B-8D11-92EB61E59AFA}
 		{A622014B-57DC-4896-8DDC-5FC824E61297} = {46ABA3E1-B145-429B-8D11-92EB61E59AFA}
+		{8E25322B-54B3-485C-B081-45CD07CD06E9} = {DE654FC6-5786-4AE5-B07B-740B152D988D}
+		{17315BBB-A947-49F0-98A0-026D9C46793E} = {DE654FC6-5786-4AE5-B07B-740B152D988D}
+		{5F0CC8B2-AA21-47C7-8056-762892C5DB58} = {DE654FC6-5786-4AE5-B07B-740B152D988D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DC0222F3-4F57-45CF-8D3C-FB0AEEC9D05E}
