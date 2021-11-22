@@ -1,0 +1,11 @@
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\bin\Debug\net6.0\CQRS.Infrastructure.Read.deps.json
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\bin\Debug\net6.0\CQRS.Infrastructure.Read.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\bin\Debug\net6.0\ref\CQRS.Infrastructure.Read.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\bin\Debug\net6.0\CQRS.Infrastructure.Read.pdb
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.AssemblyInfoInputs.cache
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.AssemblyInfo.cs
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.csproj.CoreCompileInputs.cache
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\ref\CQRS.Infrastructure.Read.dll
+C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Infrastructure.Read\obj\Debug\net6.0\CQRS.Infrastructure.Read.pdb
