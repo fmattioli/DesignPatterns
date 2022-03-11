@@ -1,0 +1,15 @@
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\bin\Debug\net6.0\ExampleDecoratorPattern.exe
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\bin\Debug\net6.0\ExampleDecoratorPattern.deps.json
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\bin\Debug\net6.0\ExampleDecoratorPattern.runtimeconfig.json
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\bin\Debug\net6.0\ExampleDecoratorPattern.dll
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\bin\Debug\net6.0\ExampleDecoratorPattern.pdb
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.csproj.AssemblyReference.cache
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.AssemblyInfo.cs
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.dll
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\refint\ExampleDecoratorPattern.dll
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.pdb
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ExampleDecoratorPattern.genruntimeconfig.cache
+C:\Projetos Pessoais\DesignPatterns\DecoratorPattern\ExampleDecoratorPattern\ExampleDecoratorPattern\obj\Debug\net6.0\ref\ExampleDecoratorPattern.dll

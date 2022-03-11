@@ -23,3 +23,29 @@ C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.dll
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\ref\CQRS.Web.dll
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.pdb
 C:\BackEnd\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.genruntimeconfig.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\appsettings.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.staticwebassets.runtime.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.exe
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.deps.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.runtimeconfig.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\bin\Debug\net6.0\CQRS.Web.pdb
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.csproj.AssemblyReference.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.AssemblyInfo.cs
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.RazorAssemblyInfo.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.RazorAssemblyInfo.cs
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\scopedcss\bundle\CQRS.Web.styles.css
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\scopedcss\projectbundle\CQRS.Web.bundle.scp.css
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\refint\CQRS.Web.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.pdb
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\CQRS.Web.genruntimeconfig.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\CQRS\CQRS.Web\obj\Debug\net6.0\ref\CQRS.Web.dll

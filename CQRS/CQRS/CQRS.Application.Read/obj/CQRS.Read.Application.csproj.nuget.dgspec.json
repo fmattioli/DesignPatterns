@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj": {}
+    "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj": {}
   },
   "projects": {
-    "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj": {
+    "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
+        "projectUniqueName": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
         "projectName": "CQRS.Read.Application",
-        "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
-        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\obj\\",
+        "projectPath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
+        "packagesPath": "C:\\Users\\aluga.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\aluga.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj": {
-                "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj"
+              "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj": {
+                "projectPath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj"
               }
             }
           }
@@ -62,25 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj": {
+    "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
         "projectName": "CQRS.Read.Infrastructure",
-        "projectPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\obj\\",
+        "projectPath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\CQRS.Read.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\aluga.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Infrastructure.Read\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\aluga.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

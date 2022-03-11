@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jqTNvAo/pbJxSxcWxVeY5poahIwHEIRJ//XfL5SvAG6fUNOeZ3jCyCMdL3NC3jnL6qgeavGbp+fKIiUSvZGjWg==",
+  "dgSpecHash": "Yg9FJE7wTcOq2wNlTN7oo698gAFLtw+aeVptAQg029QjGIrOwWJT6EPtP1cLbN4lLBvEXk4pscUJl/OP+xSV8g==",
   "success": true,
-  "projectFilePath": "C:\\BackEnd\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
+  "projectFilePath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\CQRS\\CQRS.Application.Read\\CQRS.Read.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\aluga.com\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
