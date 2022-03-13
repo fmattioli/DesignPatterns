@@ -1,0 +1,15 @@
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\bin\Debug\net6.0\AwesomeGymLive.Application.deps.json
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\bin\Debug\net6.0\AwesomeGymLive.Application.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\bin\Debug\net6.0\AwesomeGymLive.Application.pdb
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\bin\Debug\net6.0\AwesomeGymLive.Domain.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\bin\Debug\net6.0\AwesomeGymLive.Domain.pdb
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.csproj.AssemblyReference.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.AssemblyInfoInputs.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.AssemblyInfo.cs
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.csproj.CoreCompileInputs.cache
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.csproj.CopyComplete
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\refint\AwesomeGymLive.Application.dll
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\AwesomeGymLive.Application.pdb
+C:\Projetos Pessoais\DesignPatterns\CQRS\AwesomeGymLive\AwesomeGymLive.Application\obj\Debug\net6.0\ref\AwesomeGymLive.Application.dll

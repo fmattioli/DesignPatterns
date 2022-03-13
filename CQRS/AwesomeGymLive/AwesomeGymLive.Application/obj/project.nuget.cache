@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkM7UNSX+X27y3sAgrPpvm9znrIND0jClQGfjVa4n40rOxGi/Egk7wg5to+fuT0BPK1pOpvt+XMNVKP/10rQvA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos Pessoais\\DesignPatterns\\CQRS\\AwesomeGymLive\\AwesomeGymLive.Application\\AwesomeGymLive.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluga.com\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\aluga.com\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
